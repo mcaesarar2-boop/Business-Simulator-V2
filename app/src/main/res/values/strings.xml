@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Billionaire Simulator</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="nav_investing">Investing</string>
+    <string name="nav_business">Business</string>
+    <string name="nav_earnings">Earnings</string>
+    <string name="nav_assets">Assets</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Buttons & Common Actions -->
+    <string name="btn_buy">Buy</string>
+    <string name="btn_buy_business">Acquire Business</string>
+    <string name="btn_sell_business">Sell Business</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_close">Close</string>
+    <string name="btn_apply">Apply</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_dismiss">Dismiss</string>
+    <string name="btn_understand">Understood</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_confirm">Confirmation</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_warning">Warning</string>
+    <string name="dialog_success">Success</string>
+    <string name="dialog_error">Error</string>
+
+    <!-- Investing Screen -->
+    <string name="investing_title">Investing</string>
+    <string name="investing_tab_stocks">Stocks</string>
+    <string name="investing_tab_real_estate">Real Estate</string>
+    <string name="investing_tab_crypto">Crypto</string>
+    <string name="investing_tab_startups">Startups</string>
+    <string name="investing_my_stock_portfolio">My stock portfolio</string>
+    <string name="investing_est_yield_month">Estimated yield per month: %1$s</string>
+    <string name="investing_global_stock_market_btn">Global Stock Market -> View all available offers</string>
+    <string name="investing_stable_income">Stable income</string>
+    <string name="investing_growth_potential">Growth potential</string>
+    <string name="investing_buy_shares_title">Buy Shares: %1$s</string>
+    <string name="investing_buy_shares_label">Number of Shares</string>
+    <string name="investing_buy_total_cost">Total Cost:</string>
+    <string name="investing_buy_your_balance">Your Balance:</string>
+    <string name="investing_buy_confirm">Confirm Buy</string>
+    <string name="investing_buy_cancel">Cancel</string>
+
+    <!-- Business Screen -->
+    <string name="business_title">Business</string>
+    <string name="business_restructuring">Restructuring</string>
+    <string name="business_slot_format">Business Slots %1$d/%2$d</string>
+    <string name="business_gross_income_format">Total gross income per month (incl. Dividends: %1$s)</string>
+    <string name="business_form_mega_holding">👑 Form Mega Holding</string>
+    <string name="business_personal_ownership">Personal Ownership: %1$s%%</string>
+    <string name="business_start_new">Start New Business</string>
+    <string name="business_merger">Business Merger</string>
+    <string name="business_my_businesses">My Businesses</string>
+    <string name="business_empty">No businesses yet</string>
+
+    <!-- Earnings & Finance Screen -->
+    <string name="earnings_title">💰 Finance &amp; Earnings</string>
+
+    <!-- Assets / Collections Screen -->
+    <string name="assets_title">Asset Management</string>
+    <string name="assets_subtitle">Exclusive premium lifestyle investments</string>
+    <string name="assets_family_office_cash">PERSONAL CASH (FAMILY OFFICE)</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">Profile</string>
+    <string name="profile_total_fortune">Total Fortune</string>
+    <string name="profile_fo_locked_title">🏛️ Family Office Locked</string>
+    <string name="profile_fo_locked_dialog_text">The Family Office &amp; Private Wealth feature is only unlocked once your Net Worth reaches a minimum of $100,000 USD.</string>
+    <string name="profile_fo_current_wealth_format">Current Total Wealth: %1$s / $100,000 USD</string>
+    <string name="profile_fo_unlocked_btn">🏛️ Family Office &amp; Private Wealth</string>
+    <string name="profile_fo_locked_btn">🔒 Family Office &amp; Private Wealth (Locked)</string>
+    <string name="profile_fo_unlocked_desc">Liquidity Mechanics, Paper Assets &amp; Lombard Credit</string>
+    <string name="profile_fo_locked_desc">Unlock Requirement: Min. Net Worth $100,000 USD (Current: %1$s)</string>
+    
+    <string name="asset_cash">Cash</string>
+    <string name="asset_private_balance">Private Balance</string>
+    <string name="asset_businesses">Businesses</string>
+    <string name="asset_stocks">Stocks</string>
+    <string name="asset_real_estate">Real estate</string>
+    <string name="asset_housing">Housing</string>
+    <string name="asset_crypto">Crypto</string>
+    <string name="asset_collections">Collections</string>
+    <string name="asset_vehicles">Vehicles</string>
+    <string name="asset_banks">Banks</string>
+    <string name="asset_locked_nav">🔒 Locked ($100k NAV)</string>
+
+    <!-- Holding & Financial Dashboard -->
+    <string name="holding_title">Holding Company</string>
+    <string name="holding_total_cash">Total Cash: %1$s</string>
+    <string name="holding_net_worth">Total Net Worth: %1$s</string>
+    <string name="holding_monthly_revenue">Monthly Revenue: %1$s</string>
+    <string name="holding_monthly_profit">Monthly Profit: %1$s</string>
+    <string name="holding_subsidiary_list">Subsidiary Companies</string>
+    <string name="holding_subsidiaries_count">Subsidiary Companies (%1$d)</string>
+    <string name="holding_cash_balance">Cash Balance: %1$s</string>
+
+    <!-- Settings Dialog & Tabs -->
+    <string name="settings_title">Help &amp; Settings</string>
+    <string name="settings_tab_general">General</string>
+    <string name="settings_tab_gameplay">Gameplay</string>
+    <string name="settings_tab_sandbox">Sandbox</string>
+    <string name="settings_tab_assets">Assets</string>
+
+    <string name="settings_general_section">GENERAL SETTINGS</string>
+    <string name="settings_language_title">Display Language</string>
+    <string name="settings_language_subtitle">Choose your preferred in-game language</string>
+    <string name="settings_language_en">English</string>
+    <string name="settings_language_id">Bahasa Indonesia</string>
+    <string name="settings_language_ar">العربية (Arabic)</string>
+    <string name="settings_language_active">Active</string>
+    <string name="settings_language_restart_notice">Language updates dynamically without losing game progress.</string>
+
+    <string name="settings_dark_theme">Simulated Dark Theme</string>
+    <string name="settings_dark_theme_desc">Enable premium custom dark theme</string>
+    <string name="settings_compact_format">Compact Number Format (K, M, B, T)</string>
+    <string name="settings_compact_format_desc">Display monetary amounts concisely (e.g. $1.5M)</string>
+    <string name="settings_warnings">Transaction Warnings</string>
+    <string name="settings_warnings_desc">Receive high-risk transaction confirmation warnings</string>
+
+    <!-- RTL / LTR Badge Info -->
+    <string name="layout_direction_ltr">LTR Layout</string>
+    <string name="layout_direction_rtl">RTL Layout (Right-to-Left)</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "Billionaire Simulator",
+  "description": "Business \u0026 Life Simulator Android mini-game",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

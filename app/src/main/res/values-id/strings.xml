@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Billionaire Simulator</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="nav_investing">Investasi</string>
+    <string name="nav_business">Bisnis</string>
+    <string name="nav_earnings">Pendapatan</string>
+    <string name="nav_assets">Aset</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Buttons & Common Actions -->
+    <string name="btn_buy">Beli</string>
+    <string name="btn_buy_business">Akuisisi Bisnis</string>
+    <string name="btn_sell_business">Jual Bisnis</string>
+    <string name="btn_confirm">Konfirmasi</string>
+    <string name="btn_cancel">Batal</string>
+    <string name="btn_close">Tutup</string>
+    <string name="btn_apply">Terapkan</string>
+    <string name="btn_save">Simpan</string>
+    <string name="btn_dismiss">Tutup</string>
+    <string name="btn_understand">Mengerti</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_confirm">Konfirmasi Tindakan</string>
+    <string name="dialog_cancel">Batalkan</string>
+    <string name="dialog_warning">Peringatan</string>
+    <string name="dialog_success">Berhasil</string>
+    <string name="dialog_error">Terjadi Kesalahan</string>
+
+    <!-- Investing Screen -->
+    <string name="investing_title">Investasi</string>
+    <string name="investing_tab_stocks">Saham</string>
+    <string name="investing_tab_real_estate">Properti</string>
+    <string name="investing_tab_crypto">Kripto</string>
+    <string name="investing_tab_startups">Startup</string>
+    <string name="investing_my_stock_portfolio">Portofolio saham saya</string>
+    <string name="investing_est_yield_month">Estimasi imbal hasil per bulan: %1$s</string>
+    <string name="investing_global_stock_market_btn">Pasar Saham Global -> Lihat semua penawaran</string>
+    <string name="investing_stable_income">Pendapatan stabil</string>
+    <string name="investing_growth_potential">Potensi pertumbuhan</string>
+    <string name="investing_buy_shares_title">Beli Saham: %1$s</string>
+    <string name="investing_buy_shares_label">Jumlah Lembar Saham</string>
+    <string name="investing_buy_total_cost">Total Biaya:</string>
+    <string name="investing_buy_your_balance">Saldo Anda:</string>
+    <string name="investing_buy_confirm">Konfirmasi Beli</string>
+    <string name="investing_buy_cancel">Batal</string>
+
+    <!-- Business Screen -->
+    <string name="business_title">Bisnis</string>
+    <string name="business_restructuring">Restrukturisasi</string>
+    <string name="business_slot_format">Slot Bisnis %1$d/%2$d</string>
+    <string name="business_gross_income_format">Total gross income per bulan (termasuk Dividen: %1$s)</string>
+    <string name="business_form_mega_holding">👑 Bentuk Mega Holding</string>
+    <string name="business_personal_ownership">Kepemilikan Pribadi: %1$s%%</string>
+    <string name="business_start_new">Mulai Bisnis Baru</string>
+    <string name="business_merger">Merger Bisnis</string>
+    <string name="business_my_businesses">Bisnis Saya</string>
+    <string name="business_empty">Belum ada bisnis</string>
+
+    <!-- Earnings & Finance Screen -->
+    <string name="earnings_title">💰 Keuangan &amp; Pendapatan</string>
+
+    <!-- Assets / Collections Screen -->
+    <string name="assets_title">Manajemen Aset</string>
+    <string name="assets_subtitle">Investasi eksklusif gaya hidup premium</string>
+    <string name="assets_family_office_cash">KAS PRIBADI (FAMILY OFFICE)</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">Profil</string>
+    <string name="profile_total_fortune">Total Kekayaan</string>
+    <string name="profile_fo_locked_title">🏛️ Family Office Terkunci</string>
+    <string name="profile_fo_locked_dialog_text">Fitur Family Office &amp; Private Wealth hanya terbuka jika Kekayaan Total (Net Worth) Anda mencapai minimal $100,000 USD.</string>
+    <string name="profile_fo_current_wealth_format">Kekayaan Total Saat Ini: %1$s / $100,000 USD</string>
+    <string name="profile_fo_unlocked_btn">🏛️ Family Office &amp; Private Wealth</string>
+    <string name="profile_fo_locked_btn">🔒 Family Office &amp; Private Wealth (Terkunci)</string>
+    <string name="profile_fo_unlocked_desc">Mecanik Likuiditas, Pengelolaan Aset Kertas &amp; Utang Lombard</string>
+    <string name="profile_fo_locked_desc">Syarat Buka: Total Kekayaan Minimal $100,000 USD (Saat Ini: %1$s)</string>
+
+    <string name="asset_cash">Kas</string>
+    <string name="asset_private_balance">Saldo Pribadi</string>
+    <string name="asset_businesses">Bisnis</string>
+    <string name="asset_stocks">Saham</string>
+    <string name="asset_real_estate">Properti</string>
+    <string name="asset_housing">Perumahan</string>
+    <string name="asset_crypto">Kripto</string>
+    <string name="asset_collections">Koleksi</string>
+    <string name="asset_vehicles">Kendaraan</string>
+    <string name="asset_banks">Bank &amp; Logam</string>
+    <string name="asset_locked_nav">🔒 Terkunci ($100k NAV)</string>
+
+    <!-- Holding & Financial Dashboard -->
+    <string name="holding_title">Perusahaan Holding</string>
+    <string name="holding_total_cash">Total Kas: %1$s</string>
+    <string name="holding_net_worth">Total Kekayaan Bersih: %1$s</string>
+    <string name="holding_monthly_revenue">Pendapatan Bulanan: %1$s</string>
+    <string name="holding_monthly_profit">Laba Bersih Bulanan: %1$s</string>
+    <string name="holding_subsidiary_list">Daftar Anak Perusahaan</string>
+    <string name="holding_subsidiaries_count">Daftar Anak Perusahaan (%1$d)</string>
+    <string name="holding_cash_balance">Saldo Kas: %1$s</string>
+
+    <!-- Settings Dialog & Tabs -->
+    <string name="settings_title">Bantuan &amp; Pengaturan</string>
+    <string name="settings_tab_general">Umum</string>
+    <string name="settings_tab_gameplay">Gameplay</string>
+    <string name="settings_tab_sandbox">Sandbox</string>
+    <string name="settings_tab_assets">Aset</string>
+
+    <string name="settings_general_section">PENGATURAN UMUM</string>
+    <string name="settings_language_title">Bahasa Tampilan</string>
+    <string name="settings_language_subtitle">Pilih bahasa game yang Anda inginkan</string>
+    <string name="settings_language_en">English (Inggris)</string>
+    <string name="settings_language_id">Bahasa Indonesia</string>
+    <string name="settings_language_ar">العربية (Arab)</string>
+    <string name="settings_language_active">Aktif</string>
+    <string name="settings_language_restart_notice">Bahasa diperbarui secara langsung tanpa kehilangan progres permainan.</string>
+
+    <string name="settings_dark_theme">Simulasi Tema Gelap</string>
+    <string name="settings_dark_theme_desc">Mengaktifkan tema gelap kustom premium</string>
+    <string name="settings_compact_format">Format Angka Ringkas (K, M, B, T)</string>
+    <string name="settings_compact_format_desc">Uang tampil ringkas (misal $1.5M)</string>
+    <string name="settings_warnings">Peringatan Transaksi</string>
+    <string name="settings_warnings_desc">Dapatkan konfirmasi peringatan transaksi beresiko tinggi</string>
+
+    <!-- RTL / LTR Badge Info -->
+    <string name="layout_direction_ltr">Tata Letak LTR</string>
+    <string name="layout_direction_rtl">Tata Letak RTL (Kanan ke Kiri)</string>
+</resources>

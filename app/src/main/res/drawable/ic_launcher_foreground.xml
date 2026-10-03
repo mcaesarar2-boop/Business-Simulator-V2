@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 1. Left Upward Prong (Left Face - Shadow Gold) -->
+    <path
+        android:pathData="M35,35 L33,48 L39,57 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="33"
+                android:startY="35"
+                android:endX="39"
+                android:endY="57"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#7E5C00" />
+                <item android:offset="1.0" android:color="#362500" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 2. Left Upward Prong (Right Face - Bright Gloss Gold) -->
+    <path
+        android:pathData="M35,35 L39,57 L43,49 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="35"
+                android:startY="35"
+                android:endX="43"
+                android:endY="57"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFF37D" />
+                <item android:offset="1.0" android:color="#DB9700" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 3. Tall Center Spine (Left Face - Medium Gold) -->
+    <path
+        android:pathData="M54,27 L43,49 L54,49 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="27"
+                android:endX="48"
+                android:endY="49"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFEC75" />
+                <item android:offset="1.0" android:color="#AA7F00" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 4. Tall Center Spine (Right Face - Shadow Gold) -->
+    <path
+        android:pathData="M54,27 L54,49 L65,49 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="27"
+                android:endX="60"
+                android:endY="49"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#916E00" />
+                <item android:offset="1.0" android:color="#493500" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 5. Big Diagonal Pillar (Upper Facet - Ultra Bright Reflection) -->
+    <path
+        android:pathData="M41,67 L51,46 L73,35 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="41"
+                android:startY="67"
+                android:endX="73"
+                android:endY="35"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFF8D1" />
+                <item android:offset="0.4" android:color="#FFE868" />
+                <item android:offset="1.0" android:color="#FAAD00" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 6. Big Diagonal Pillar (Lower Facet - Rich Polished Amber) -->
+    <path
+        android:pathData="M41,67 L73,35 L61,54 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="41"
+                android:startY="67"
+                android:endX="67"
+                android:endY="44"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FAAD00" />
+                <item android:offset="0.7" android:color="#C17F00" />
+                <item android:offset="1.0" android:color="#674100" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 7. Bottom Left Diamond Wing (Upper Facet - Vivid Yellow Gold) -->
+    <path
+        android:pathData="M28.5,52.8 L45,58 L41,67 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="28.5"
+                android:startY="52.8"
+                android:endX="41"
+                android:endY="67"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFF9D1" />
+                <item android:offset="1.0" android:color="#E0A300" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 8. Bottom Left Diamond Wing (Lower Facet - Glowing Gold-Yellow) -->
+    <path
+        android:pathData="M28.5,52.8 L41,67 L54,78.3 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="28.5"
+                android:startY="52.8"
+                android:endX="54"
+                android:endY="78.3"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFEA6C" />
+                <item android:offset="0.6" android:color="#FCA600" />
+                <item android:offset="1.0" android:color="#835200" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 9. Right Upper Wing (Medium Bright Gold) -->
+    <path
+        android:pathData="M61,54 L78,53 L68,68 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="61"
+                android:startY="54"
+                android:endX="68"
+                android:endY="68"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#FFF37A" />
+                <item android:offset="1.0" android:color="#C08400" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 10. Right Lower Wing Blade (Rich Solid Gold) -->
+    <path
+        android:pathData="M68,68 L78,53 L81,55 L74,74 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="68"
+                android:startY="68"
+                android:endX="74"
+                android:endY="74"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#EFA100" />
+                <item android:offset="1.0" android:color="#674100" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- 11. Deep Lower Shard Reflection (Contrast Gold Shadow) -->
+    <path
+        android:pathData="M54,78.3 L68,68 L54,60 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="54"
+                android:startY="60"
+                android:endX="54"
+                android:endY="78.3"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#926900" />
+                <item android:offset="1.0" android:color="#3B2600" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>

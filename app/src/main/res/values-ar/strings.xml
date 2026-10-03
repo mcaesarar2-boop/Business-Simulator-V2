@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">محاكي الملياردير</string>
+
+    <!-- Navigation & Tabs -->
+    <string name="nav_investing">الاستثمار</string>
+    <string name="nav_business">الأعمال</string>
+    <string name="nav_earnings">الإيرادات</string>
+    <string name="nav_assets">الأصول</string>
+    <string name="nav_profile">الملف الشخصي</string>
+
+    <!-- Buttons & Common Actions -->
+    <string name="btn_buy">شراء</string>
+    <string name="btn_buy_business">الاستحواذ على شركة</string>
+    <string name="btn_sell_business">بيع الشركة</string>
+    <string name="btn_confirm">تأكيد</string>
+    <string name="btn_cancel">إلغاء</string>
+    <string name="btn_close">إغلاق</string>
+    <string name="btn_apply">تطبيق</string>
+    <string name="btn_save">حفظ</string>
+    <string name="btn_dismiss">تراجع</string>
+    <string name="btn_understand">حسناً</string>
+
+    <!-- Dialogs -->
+    <string name="dialog_confirm">تأكيد الإجراء</string>
+    <string name="dialog_cancel">إلغاء</string>
+    <string name="dialog_warning">تحذير</string>
+    <string name="dialog_success">تم بنجاح</string>
+    <string name="dialog_error">خطأ</string>
+
+    <!-- Investing Screen -->
+    <string name="investing_title">الاستثمار</string>
+    <string name="investing_tab_stocks">الأسهم</string>
+    <string name="investing_tab_real_estate">العقارات</string>
+    <string name="investing_tab_crypto">العملات الرقمية</string>
+    <string name="investing_tab_startups">الشركات الناشئة</string>
+    <string name="investing_my_stock_portfolio">محفظة الأسهم الخاصة بي</string>
+    <string name="investing_est_yield_month">العائد الشهري المقدر: %1$s</string>
+    <string name="investing_global_stock_market_btn">سوق الأسهم العالمية -> عرض جميع العروض المتاحة</string>
+    <string name="investing_stable_income">دخل ثابت</string>
+    <string name="investing_growth_potential">إمكانات النمو</string>
+    <string name="investing_buy_shares_title">شراء أسهم: %1$s</string>
+    <string name="investing_buy_shares_label">عدد الأسهم</string>
+    <string name="investing_buy_total_cost">إجمالي التكلفة:</string>
+    <string name="investing_buy_your_balance">رصيدك:</string>
+    <string name="investing_buy_confirm">تأكيد الشراء</string>
+    <string name="investing_buy_cancel">إلغاء</string>
+
+    <!-- Business Screen -->
+    <string name="business_title">الأعمال</string>
+    <string name="business_restructuring">إعادة الهيكلة</string>
+    <string name="business_slot_format">فتحات الأعمال %1$d/%2$d</string>
+    <string name="business_gross_income_format">إجمالي الدخل الشهري (شاملاً التوزيعات: %1$s)</string>
+    <string name="business_form_mega_holding">👑 تأسيس شركة قابضة كبرى</string>
+    <string name="business_personal_ownership">الملكية الشخصية: %1$s%%</string>
+    <string name="business_start_new">بدء عمل تجاري جديد</string>
+    <string name="business_merger">دمج الشركات</string>
+    <string name="business_my_businesses">شركاتي</string>
+    <string name="business_empty">لا توجد أعمال حتى الآن</string>
+
+    <!-- Earnings & Finance Screen -->
+    <string name="earnings_title">💰 المالية والأرباح</string>
+
+    <!-- Assets / Collections Screen -->
+    <string name="assets_title">إدارة الأصول</string>
+    <string name="assets_subtitle">استثمارات حصرية في نمط الحياة الفاخر</string>
+    <string name="assets_family_office_cash">النقد الشخصي (المكتب العائلي)</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_title">الملف الشخصي</string>
+    <string name="profile_total_fortune">إجمالي الثروة</string>
+    <string name="profile_fo_locked_title">🏛️ المكتب العائلي مقفل</string>
+    <string name="profile_fo_locked_dialog_text">ميزة المكتب العائلي والثروات الخاصة تفتح فقط عندما يصل صافي ثروتك إلى 100,000 دولار أمريكي على الأقل.</string>
+    <string name="profile_fo_current_wealth_format">صافي الثروة الحالي: %1$s / $100,000 دولار</string>
+    <string name="profile_fo_unlocked_btn">🏛️ المكتب العائلي والثروات الخاصة</string>
+    <string name="profile_fo_locked_btn">🔒 المكتب العائلي والثروات الخاصة (مقفل)</string>
+    <string name="profile_fo_unlocked_desc">آليات السيولة، إدارة الأصول والائتمان المالي</string>
+    <string name="profile_fo_locked_desc">شرط الفتح: صافي ثروة لا يقل عن 100,000 دولار (حالياً: %1$s)</string>
+
+    <string name="asset_cash">نقد</string>
+    <string name="asset_private_balance">الرصيد الخاص</string>
+    <string name="asset_businesses">الأعمال</string>
+    <string name="asset_stocks">الأسهم</string>
+    <string name="asset_real_estate">العقارات</string>
+    <string name="asset_housing">الإسكان</string>
+    <string name="asset_crypto">العملات الرقمية</string>
+    <string name="asset_collections">المقتنيات</string>
+    <string name="asset_vehicles">المركبات</string>
+    <string name="asset_banks">البنوك والمعادن</string>
+    <string name="asset_locked_nav">🔒 مقفل (100 ألف صافي أصول)</string>
+
+    <!-- Holding & Financial Dashboard -->
+    <string name="holding_title">الشركة القابضة</string>
+    <string name="holding_total_cash">إجمالي النقد: %1$s</string>
+    <string name="holding_net_worth">صافي الثروة: %1$s</string>
+    <string name="holding_monthly_revenue">الإيرادات الشهرية: %1$s</string>
+    <string name="holding_monthly_profit">الأرباح الشهرية: %1$s</string>
+    <string name="holding_subsidiary_list">قائمة الشركات التابعة</string>
+    <string name="holding_subsidiaries_count">قائمة الشركات التابعة (%1$d)</string>
+    <string name="holding_cash_balance">الرصيد النقدي: %1$s</string>
+
+    <!-- Settings Dialog & Tabs -->
+    <string name="settings_title">المساعدة والإعدادات</string>
+    <string name="settings_tab_general">عام</string>
+    <string name="settings_tab_gameplay">طريقة اللعب</string>
+    <string name="settings_tab_sandbox">الوضع التجريبي</string>
+    <string name="settings_tab_assets">الأصول</string>
+
+    <string name="settings_general_section">الإعدادات العامة</string>
+    <string name="settings_language_title">لغة العرض</string>
+    <string name="settings_language_subtitle">اختر لغة اللعبة المفضلة لديك</string>
+    <string name="settings_language_en">الإنجليزية (English)</string>
+    <string name="settings_language_id">الإندونيسية (Bahasa Indonesia)</string>
+    <string name="settings_language_ar">العربية</string>
+    <string name="settings_language_active">نشط</string>
+    <string name="settings_language_restart_notice">يتم تحديث اللغة فورياً دون فقدان تقدم اللعبة.</string>
+
+    <string name="settings_dark_theme">الوضع الداكن</string>
+    <string name="settings_dark_theme_desc">تفعيل السمة الداكنة المخصصة الفاخرة</string>
+    <string name="settings_compact_format">تنسيق الأرقام المختصر (K, M, B, T)</string>
+    <string name="settings_compact_format_desc">عرض المبالغ المالية باختصار (مثال $1.5M)</string>
+    <string name="settings_warnings">تحذيرات المعاملات</string>
+    <string name="settings_warnings_desc">تلقي تنبيهات تأكيد للمعاملات عالية المخاطر</string>
+
+    <!-- RTL / LTR Badge Info -->
+    <string name="layout_direction_ltr">تخطيط من اليسار لليمين (LTR)</string>
+    <string name="layout_direction_rtl">تخطيط من اليمين لليسار (RTL)</string>
+</resources>

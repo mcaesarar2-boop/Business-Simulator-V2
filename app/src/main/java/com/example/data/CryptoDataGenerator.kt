@@ -1,0 +1,31 @@
+package com.example.data
+
+val initialCryptoList = listOf(
+    CryptoItem("bitcoin", "BTC", "Bitcoin", 68500.0, 2.5),
+    CryptoItem("ethereum", "ETH", "Ethereum", 3800.0, 1.2),
+    CryptoItem("tether", "USDT", "Tether", 1.0, 0.0),
+    CryptoItem("binance-coin", "BNB", "BNB", 600.0, 3.4),
+    CryptoItem("solana", "SOL", "Solana", 170.0, 5.6),
+    CryptoItem("usd-coin", "USDC", "USDC", 1.0, 0.0),
+    CryptoItem("ripple", "XRP", "XRP", 0.52, -1.2),
+    CryptoItem("dogecoin", "DOGE", "Dogecoin", 0.16, 4.1),
+    CryptoItem("toncoin", "TON", "Toncoin", 6.5, 2.1),
+    CryptoItem("cardano", "ADA", "Cardano", 0.45, -0.5),
+    CryptoItem("shiba-inu", "SHIB", "Shiba Inu", 0.000025, 6.7),
+    CryptoItem("avalanche", "AVAX", "Avalanche", 36.0, 2.3),
+    CryptoItem("polkadot", "DOT", "Polkadot", 7.2, 1.4),
+    CryptoItem("chainlink", "LINK", "Chainlink", 18.5, -2.1),
+    CryptoItem("bitcoin-cash", "BCH", "Bitcoin Cash", 450.0, 1.1),
+    CryptoItem("near-protocol", "NEAR", "NEAR Protocol", 7.5, 4.5),
+    CryptoItem("polygon", "MATIC", "Polygon", 0.72, -1.5),
+    CryptoItem("litecoin", "LTC", "Litecoin", 84.0, 0.5),
+    CryptoItem("internet-computer", "ICP", "Internet Computer", 12.5, 3.2),
+    CryptoItem("pepe", "PEPE", "Pepe", 0.000014, 15.2),
+    CryptoItem("uniswap", "UNI", "Uniswap", 9.0, 1.1),
+    CryptoItem("aptos", "APT", "Aptos", 9.1, -1.2),
+    CryptoItem("stellar", "XLM", "Stellar", 0.1, 0.7),
+    CryptoItem("filecoin", "FIL", "Filecoin", 5.5, -2.4),
+    CryptoItem("monero", "XMR", "Monero", 130.0, 1.0),
+    CryptoItem("cosmos", "ATOM", "Cosmos", 8.5, 0.4),
+    CryptoItem("arbitrum", "ARB", "Arbitrum", 1.05, 3.3)
+)
